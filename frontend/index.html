@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Legal Rights Assistant</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚖️</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
@@ -12,16 +13,21 @@
   <div class="page">
     <div class="chat-container">
       <header class="chat-header">
-        <span class="eyebrow">Government-sourced information</span>
-        <h1>Legal Rights Assistant</h1>
+        <div class="header-top">
+          <div>
+            <span class="eyebrow">Government-sourced information</span>
+            <h1>Legal Rights Assistant</h1>
+          </div>
+          <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode"></button>
+        </div>
         <p class="subtitle">Ask about RTI, Consumer Rights, Tenant Rights, or Women's Safety &amp; Cybercrime</p>
       </header>
 
       <div class="chips" id="chips">
-        <button class="chip" data-question="How do I file an RTI application?">RTI</button>
-        <button class="chip" data-question="What are my rights if I receive a defective product?">Consumer Rights</button>
-        <button class="chip" data-question="What is the maximum security deposit a landlord can charge?">Tenant Rights</button>
-        <button class="chip" data-question="How do I report a cybercrime against me?">Cyber &amp; Women's Safety</button>
+        <button class="chip chip-rti" data-question="How do I file an RTI application?">RTI</button>
+        <button class="chip chip-consumer" data-question="What are my rights if I receive a defective product?">Consumer Rights</button>
+        <button class="chip chip-tenant" data-question="What is the maximum security deposit a landlord can charge?">Tenant Rights</button>
+        <button class="chip chip-cyber" data-question="How do I report a cybercrime against me?">Cyber &amp; Women's Safety</button>
       </div>
 
       <div class="chat-messages" id="chatMessages"></div>
