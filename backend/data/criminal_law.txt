@@ -1,0 +1,38 @@
+CRIMINAL LAW BASICS (India)
+
+Note: India replaced the IPC, CrPC, and Indian Evidence Act with new laws effective July 2024 — the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA). Older case law and section numbers under IPC/CrPC are still widely referenced since the underlying principles are largely retained.
+
+1. BHARATIYA NYAYA SANHITA (BNS), 2023 (replaces IPC)
+The main criminal code defining offenses and punishments — covering theft, assault, murder, cheating, defamation, and hundreds of other crimes. Renumbers most IPC sections (e.g., murder is now Section 103, previously IPC 302).
+
+2. BHARATIYA NAGARIK SURAKSHA SANHITA (BNSS), 2023 (replaces CrPC)
+Governs criminal procedure — arrest, investigation, bail, trial process. Introduces provisions like mandatory videography of search/seizure and timelines for forensic investigation in serious crimes.
+
+3. RIGHT TO BE INFORMED OF GROUNDS OF ARREST
+Any person who is arrested must be informed of the reasons for arrest and has the right to inform a friend or relative. This is a Constitutional right under Article 22.
+
+4. RIGHT TO BAIL
+Bail is the rule, jail is the exception, especially for bailable offenses where it is a matter of right. For non-bailable offenses, a court can grant bail considering factors like flight risk, severity of crime, and evidence. Anticipatory bail (Section 482 BNSS, previously Section 438 CrPC) can be sought before arrest in anticipation of arrest in non-bailable cases.
+
+5. RIGHT AGAINST SELF-INCRIMINATION (Article 20(3) of the Constitution)
+No person accused of a crime can be forced to be a witness against themselves. This means police cannot force a confession, and any confession made under coercion is not admissible in court.
+
+6. FREE LEGAL AID (Legal Services Authorities Act, 1987)
+Anyone unable to afford a lawyer is entitled to free legal aid, especially in criminal cases. This can be accessed through District Legal Services Authorities (DLSA) or by directly asking the court to appoint a lawyer.
+
+7. FIR (FIRST INFORMATION REPORT)
+Police are legally required to register an FIR when informed of a cognizable offense (serious crimes like theft, assault, murder). If police refuse, the complainant can approach the Superintendent of Police or file a complaint directly with a Magistrate under Section 175(3) BNSS.
+
+8. ZERO FIR
+An FIR can be filed at any police station, regardless of where the crime occurred — this is called a "Zero FIR" and is later transferred to the police station with jurisdiction over the crime location.
+
+9. PROTECTION AGAINST DOUBLE JEOPARDY (Article 20(2))
+No person can be prosecuted and punished for the same offense more than once.
+
+10. JUVENILE OFFENDERS
+Children below 18 are treated under the Juvenile Justice Act, 2015, with a focus on rehabilitation rather than punishment, except in cases of heinous crimes by those aged 16-18, which may be tried as adults after assessment by a Juvenile Justice Board.
+
+11. VICTIM COMPENSATION SCHEME (Section 396 BNSS)
+Victims of crime, especially serious offenses, can apply for compensation through State Legal Services Authorities, separate from any compensation ordered by a criminal court.
+
+How to seek help: Visit the nearest police station to file an FIR, or contact the District Legal Services Authority for free legal aid. The National Legal Services Authority (NALSA) helpline is 15100.

@@ -1,0 +1,33 @@
+DIGITAL RIGHTS & IT LAW (India)
+
+1. INFORMATION TECHNOLOGY ACT, 2000 (Amended 2008)
+The primary law governing cybercrime and electronic commerce in India. Covers offenses like hacking, identity theft, cyberstalking, phishing, and unauthorized access to computer systems. Section 66 covers hacking/data theft (up to 3 years imprisonment), Section 66C covers identity theft, Section 66E covers violation of privacy (capturing/publishing private images without consent).
+
+2. SECTION 67 & 67A, IT ACT — OBSCENE CONTENT
+Publishing or transmitting obscene material electronically is punishable. Section 67A specifically covers sexually explicit material, with stricter penalties.
+
+3. DIGITAL PERSONAL DATA PROTECTION ACT, 2023 (DPDP Act)
+India's primary data privacy law. Companies and organizations ("data fiduciaries") must obtain clear consent before collecting personal data, use it only for stated purposes, and allow individuals to access, correct, or withdraw consent for their data. Violations can lead to penalties up to Rs. 250 crore.
+
+4. CYBERCRIME REPORTING
+Cybercrimes can be reported via the National Cyber Crime Reporting Portal (cybercrime.gov.in) or by calling the national helpline 1930. Financial fraud cases reported within a few hours have a much higher chance of fund recovery.
+
+5. ONLINE HARASSMENT & STALKING (Section 78 BNS, previously IPC 354D)
+Cyberstalking — repeatedly contacting or monitoring someone online despite clear disinformation of disinterest — is a criminal offense, punishable with imprisonment up to 3 years for a first conviction.
+
+6. NON-CONSENSUAL INTIMATE IMAGES (Section 66E IT Act, Section 77 BNS)
+Capturing, publishing, or transmitting images of a person's private parts or private acts without consent is a criminal offense, regardless of whether the original images were consensually shared in a private relationship.
+
+7. ONLINE FINANCIAL FRAUD
+UPI fraud, fake loan apps, and phishing scams can be reported to your bank immediately (most banks have a 3-day window to reverse unauthorized transactions if reported promptly) and to the cybercrime portal. The RBI mandates banks to have a clear grievance redressal mechanism for digital payment fraud.
+
+8. SOCIAL MEDIA INTERMEDIARY RULES (IT Rules 2021)
+Social media platforms must appoint grievance officers, respond to complaints within prescribed timelines (24 hours for content removal requests in serious cases), and enable traceability of messages in some circumstances. Users can report objectionable content directly to the platform first.
+
+9. RIGHT TO BE FORGOTTEN
+While not yet a fully codified right in India, some courts have allowed individuals to request removal of personal information from search results or records in specific cases (e.g., acquittal records), based on privacy principles under Article 21.
+
+10. AADHAAR ACT, 2016 AND DATA SECURITY
+Aadhaar data cannot be shared without consent except in narrowly defined circumstances (national security, court orders). Misuse of Aadhaar data is a punishable offense.
+
+How to seek help: Report cybercrime at cybercrime.gov.in or call 1930 immediately for financial fraud. For data privacy complaints, escalate to the Data Protection Board once fully operational under the DPDP Act, or use the platform's grievance officer contact (usually listed in their privacy policy).

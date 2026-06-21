@@ -1,0 +1,33 @@
+PROPERTY & HOUSING LAW (India)
+
+1. TRANSFER OF PROPERTY ACT, 1882
+Governs how property (land, buildings) can be legally transferred through sale, mortgage, lease, gift, or exchange. Any transfer must be through a registered, properly executed document to be legally valid.
+
+2. REGISTRATION ACT, 1908
+Documents related to property transactions worth more than Rs. 100 (in practice, virtually all property sales) must be registered with the local Sub-Registrar's office to be legally enforceable. An unregistered sale deed generally cannot be used to claim ownership in court.
+
+3. REAL ESTATE (REGULATION AND DEVELOPMENT) ACT, 2016 (RERA)
+Protects homebuyers from builder delays, fraud, and poor construction quality. Builders must register projects with the state RERA authority, disclose project details, and deposit 70% of buyer payments in an escrow account for construction costs. Buyers can file complaints with the state RERA for delays or defects.
+
+4. RENT CONTROL ACTS (State-specific)
+Most states have their own Rent Control Act regulating rent increases, eviction grounds, and security deposits. Landlords generally cannot evict tenants without valid legal grounds (like non-payment of rent or personal need) and must follow due process through a Rent Controller or civil court.
+
+5. MODEL TENANCY ACT, 2021 (template for states to adopt)
+Proposes capping security deposits at 2 months' rent for residential and 6 months for commercial properties, mandatory written rental agreements, and timely return of deposits. Not all states have adopted this yet — actual rules depend on your state's specific Rent Control Act.
+
+6. RIGHT TO FAIR COMPENSATION AND TRANSPARENCY IN LAND ACQUISITION ACT, 2013
+When the government acquires private land for public projects, it must pay fair compensation (based on market value) and conduct a Social Impact Assessment. Affected families are also entitled to rehabilitation and resettlement benefits.
+
+7. INDIAN EASEMENTS ACT, 1882
+Governs rights like right of way, right to light, and right to water that one property owner may have over a neighboring property.
+
+8. PARTITION OF PROPERTY
+Co-owners of inherited property (like siblings) have the right to seek partition (division) of jointly-owned property either through mutual agreement or a partition suit in civil court if they cannot agree.
+
+9. ADVERSE POSSESSION
+Under Indian law, if someone occupies land continuously, openly, and without the owner's permission for 12 years (government land: 30 years), they may be able to claim legal ownership — though this is increasingly difficult to establish and courts apply strict scrutiny.
+
+10. HOMEBUYER GRIEVANCE REDRESSAL
+Apart from RERA, homebuyers can also approach Consumer Courts under the Consumer Protection Act for builder deficiencies, or civil courts for breach of contract.
+
+How to seek help: File complaints with your state's RERA authority (search "[your state] RERA") for builder issues, or approach the Rent Controller's office or civil court for landlord-tenant disputes. For property registration queries, visit your local Sub-Registrar office.

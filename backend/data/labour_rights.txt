@@ -1,0 +1,42 @@
+LABOUR & EMPLOYMENT RIGHTS (India)
+
+1. PAYMENT OF WAGES ACT, 1936
+Workers must be paid on time — by the 7th of the month if there are fewer than 1000 employees, or by the 10th if there are more. Employers cannot make illegal deductions from wages (only specific deductions like PF, tax, or fines for misconduct are allowed, and these are capped).
+
+2. MINIMUM WAGES ACT, 1948
+Every state government sets a minimum wage for different types of work. Employers must pay at least this amount — paying less is illegal regardless of any agreement signed by the worker. Minimum wages are revised periodically and vary by state and skill category.
+
+3. EQUAL REMUNERATION ACT, 1976
+Men and women must be paid equally for the same work or work of a similar nature. Discrimination in recruitment based on gender (except where the job specifically requires one gender) is also prohibited.
+
+4. THE FACTORIES ACT, 1948
+Limits working hours to 48 hours per week and 9 hours per day for factory workers. Mandates rest intervals, weekly holidays, overtime pay (double the normal rate), and safety measures in factories. Workers under 14 cannot be employed in factories.
+
+5. SHOPS AND ESTABLISHMENTS ACT (State-specific)
+Regulates working hours, overtime, holidays, and leave for employees in shops, offices, and commercial establishments. Rules vary by state but generally cap working hours around 8-9 hours a day.
+
+6. MATERNITY BENEFIT ACT, 1961 (Amended 2017)
+Female employees are entitled to 26 weeks of paid maternity leave for the first two children (12 weeks for the third child onward). Includes provisions for nursing breaks and protection from dismissal during pregnancy or maternity leave.
+
+7. EMPLOYEES' PROVIDENT FUND (EPF) ACT, 1952
+Mandatory retirement savings scheme. Employers and employees both contribute 12% of basic salary (with some exceptions) to a fund that can be withdrawn under specific conditions (retirement, certain emergencies, unemployment).
+
+8. EMPLOYEES' STATE INSURANCE (ESI) ACT, 1948
+Provides medical care, sickness benefits, maternity benefits, and compensation for work injuries to employees earning below a certain wage threshold, funded through employer and employee contributions.
+
+9. INDUSTRIAL DISPUTES ACT, 1947
+Governs termination, layoffs, and retrenchment of workers. Employers generally cannot terminate a worker without notice or compensation, except in cases of proven misconduct. Disputes can be raised before Labour Courts or Industrial Tribunals.
+
+10. SEXUAL HARASSMENT OF WOMEN AT WORKPLACE (PREVENTION, PROHIBITION AND REDRESSAL) ACT, 2013 (POSH Act)
+Every workplace with 10 or more employees must have an Internal Complaints Committee (ICC) to address sexual harassment complaints. Complaints must be filed within 3 months of the incident (extendable). Employers who fail to comply can face fines.
+
+11. CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986 (Amended 2016)
+Prohibits employment of children below 14 years in any occupation. Adolescents (14-18 years) cannot be employed in hazardous occupations. Violators face fines and imprisonment.
+
+12. PAYMENT OF GRATUITY ACT, 1972
+Employees who have completed 5 years of continuous service are entitled to gratuity upon retirement, resignation, or termination — calculated as 15 days' wages for every completed year of service.
+
+13. RIGHT TO DISCONNECT (Emerging concept, not yet codified nationally)
+While India does not yet have a formal "Right to Disconnect" law, some draft bills have proposed employee rights to not respond to work calls/emails outside working hours. Currently this is governed by individual company policy rather than statute.
+
+How to file a labour complaint: Contact the local Labour Commissioner's office, or file online via the Shram Suvidha Portal (shramsuvidha.gov.in). For EPF issues, use the EPFO grievance portal (epfigms.gov.in).
