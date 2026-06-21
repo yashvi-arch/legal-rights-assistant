@@ -2,7 +2,7 @@
 // When you deploy, replace 'https://your-backend.onrender.com' with your real backend URL.
 const API_BASE = (location.hostname === '127.0.0.1' || location.hostname === 'localhost')
   ? 'http://127.0.0.1:8000'
-  : 'https://your-backend.onrender.com';
+  : 'https://legal-rights-assistant.onrender.com';
 
 const chatMessages = document.getElementById('chatMessages');
 const userInput = document.getElementById('userInput');
