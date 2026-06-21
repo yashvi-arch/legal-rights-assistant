@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Legal Rights Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <div class="chat-container">
+      <header class="chat-header">
+        <span class="eyebrow">Government-sourced information</span>
+        <h1>Legal Rights Assistant</h1>
+        <p class="subtitle">Ask about RTI, Consumer Rights, Tenant Rights, or Women's Safety &amp; Cybercrime</p>
+      </header>
+
+      <div class="chips" id="chips">
+        <button class="chip" data-question="How do I file an RTI application?">RTI</button>
+        <button class="chip" data-question="What are my rights if I receive a defective product?">Consumer Rights</button>
+        <button class="chip" data-question="What is the maximum security deposit a landlord can charge?">Tenant Rights</button>
+        <button class="chip" data-question="How do I report a cybercrime against me?">Cyber &amp; Women's Safety</button>
+      </div>
+
+      <div class="chat-messages" id="chatMessages"></div>
+
+      <p class="disclaimer">General information only — not a substitute for legal advice.</p>
+
+      <div class="chat-input">
+        <input type="text" id="userInput" placeholder="Ask about your rights..." />
+        <button id="sendBtn">Send</button>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
