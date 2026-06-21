@@ -172,6 +172,14 @@ body {
 .chip-consumer { border-left: 3px solid #B8862F; }
 .chip-tenant { border-left: 3px solid #2B5797; }
 .chip-cyber { border-left: 3px solid #A0395B; }
+.chip-labour { border-left: 3px solid #6B5B95; }
+.chip-family { border-left: 3px solid #D17A22; }
+.chip-criminal { border-left: 3px solid #8B2635; }
+.chip-property { border-left: 3px solid #3E7A6F; }
+.chip-constitutional { border-left: 3px solid #4A5899; }
+.chip-digital { border-left: 3px solid #2E8B8B; }
+.chip-education { border-left: 3px solid #7D8C3C; }
+.chip-health { border-left: 3px solid #C44569; }
 
 .chat-messages {
   flex: 1;
